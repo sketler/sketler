@@ -6,7 +6,7 @@
 
 :dart:	Got some vulnerabilities that brought me some CVEs and wrote some exploits here and there.
 
-:nerd_face:	I Love being constantly challenged with hard problems, such as killing some Dark souls bosses without losing health and cuphead.
+:nerd_face:	I Love being constantly challenged with hard problems, such as killing some Dark souls bosses.
 
 ### Achievements
 
