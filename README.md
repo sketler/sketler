@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###About me :thinking:	
+### About me :thinking:	
 
 :man_technologist:	I'm Edward, an experienced pentester that loves Android & IOS pentesting, currently working at my blog sketler.gitbook.io. I'm not Really active at github right now, but soon will be making progress here too.
 
@@ -8,7 +8,7 @@
 
 :nerd_face:	I Love being constantly challenged with hard problems, such as killing some Dark souls bosses without losing health and cuphead.
 
-###Achievements
+### Achievements
 
 -	OSWE – Offensive Security Certified Web Expert
 -	OSCP – Offensive Security Certified Professional
@@ -18,7 +18,7 @@
 -	Exin Ethical Hacking Foundations
 -	Pentester+ - Comptia
 
-#CVEs
+### CVEs
 
 - CVE-2018-14924    - CVE-2018–1000080
 - CVE-2018-14925    - CVE-2018–1000081
