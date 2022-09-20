@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### About me :thinking:	
 
 :man_technologist:	I'm Edward, an experienced pentester that loves Android & IOS pentesting, currently working at my blog https://sketler.gitbook.io. I'm not Really active at github right now, but soon will be making progress here too.
