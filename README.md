@@ -2,7 +2,7 @@
 
 ### About me :thinking:	
 
-:man_technologist:	I'm Edward, an experienced pentester that loves Android & IOS pentesting, currently working at my blog sketler.gitbook.io. I'm not Really active at github right now, but soon will be making progress here too.
+:man_technologist:	I'm Edward, an experienced pentester that loves Android & IOS pentesting, currently working at my blog https://sketler.gitbook.io. I'm not Really active at github right now, but soon will be making progress here too.
 
 :dart:	Got some vulnerabilities that brought me some CVEs and wrote some exploits here and there.
 
